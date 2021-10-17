@@ -11,8 +11,6 @@ add.addEventListener('click', () => {
     console.log(counter);
     outputContainer.innerText = counter;
     fizzBuzz(counter);
-
-    counter &&  fucntsdcsc;
 });
 
 subtract.addEventListener('click', () => {
